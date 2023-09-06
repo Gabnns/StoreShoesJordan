@@ -36,7 +36,7 @@ Landing page sobre uma loja de tênis, display disponibilizado em grid com efeit
 
 - Projeto voltado para trabalhar e aprimorar o uso do CSS Grid. O CSS Grid oferece controle sobre as linhas e colunas do design da sua página da web. Para colocar esse controle com CSS grid em prática, foi desenvolvido esta página com html e Css.
 
-- [Visite o projeto online]()!
+- [Visite o projeto online](https://gabnns.github.io/StoreShoesJordan/)!
 
 ## 🔖 Layout
 
